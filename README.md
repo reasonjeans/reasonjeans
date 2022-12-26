@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/reasonjeans/reasonjeans/main/wave.gif" width="30">
 Welcome to my Github place. I am a Front-End Developer.
 
-🛠 Stacks
 
+🛠 Stacks
 Front-End
 - HTML5, CSS3 & SCSS, Javascript(ES6), jQuery
 - React.js
@@ -19,5 +19,6 @@ Collaboration & Tools
 - Jira, Confluence, Bitbucket
 - Figma, Zeplin
 
-📫 How to reach me
+
+📫 How to reach me #
 email : yujinlee719@gmail.com
