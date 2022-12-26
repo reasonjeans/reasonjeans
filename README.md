@@ -20,5 +20,5 @@ Collaboration & Tools
 - Figma, Zeplin
 
 
-📫 How to reach me #
+📫 How to reach me
 email : yujinlee719@gmail.com
