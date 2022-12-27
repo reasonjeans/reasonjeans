@@ -21,4 +21,4 @@ Tools
 <br />
 
 <h3>📮 How to reach me</h3>
-<img src="https://img.shields.io/badge/yujinlee719@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white" />
+<a href="mailto:yujinlee719@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yujinlee719@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
