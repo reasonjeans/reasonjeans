@@ -2,7 +2,8 @@
 Welcome to my Github place. I am a Front-End Developer.
 
 
-🛠 Stacks
+
+#### 🛠 Stacks
 Front-End
 - HTML5, CSS3 & SCSS, Javascript(ES6), jQuery
 - React.js
@@ -20,5 +21,6 @@ Collaboration & Tools
 - Figma, Zeplin
 
 
-📫 How to reach me
+
+#### 📫 How to reach me
 email : yujinlee719@gmail.com
