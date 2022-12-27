@@ -3,7 +3,7 @@ Welcome to my Github place. I am a <b>Front-End Developer.</b> 🚀
 <br />
 <br />
 
-<h3>💪 Stacks</h3>
+#### 🛠️ Stacks
 Front-End
 
 <img src="https://img.shields.io/badge/React-61dafe?style=flat-square&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <br />
@@ -20,5 +20,5 @@ Tools
 <br />
 <br />
 
-<h3>📮 How to reach me</h3>
+#### 📨 How to reach me
 <a href="mailto:yujinlee719@gmail.com" target="_blank"><img src="https://img.shields.io/badge/yujinlee719@gmail.com-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
