@@ -15,7 +15,7 @@ Back-End
 
 Tools
 
-<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat-square&logo=Bitbucket&logoColor=white" /> <br /><img src="https://img.shields.io/badge/VS code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-172b4d?style=flat-square&logo=Confluence&logoColor=white" /> <br />
+<img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Bitbucket-0052cc?style=flat-square&logo=Bitbucket&logoColor=white" /> <br /><img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat-square&logo=Visual Studio Code&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-172b4d?style=flat-square&logo=Confluence&logoColor=white" /> <br />
 <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=Figma&logoColor=white" />
 <br />
 <br />
